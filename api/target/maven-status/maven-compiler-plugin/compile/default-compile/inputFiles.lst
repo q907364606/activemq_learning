@@ -1,0 +1,9 @@
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\dto\UserLoginResponse.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\dto\UserQueryResponse.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\abs\AbstractRequest.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\constants\ResponseCodeEnum.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\abs\AbstractResponse.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\IUserLoginService.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\dto\UserLoginRequest.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\dto\UserQueryRequest.java
+F:\idea_workspace\idea7\dubbo-user\api\src\main\java\com\gupao\vip\mic\dubbo\user\IUserQueryService.java

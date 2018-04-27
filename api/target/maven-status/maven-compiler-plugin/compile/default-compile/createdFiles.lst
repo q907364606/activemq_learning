@@ -1,0 +1,9 @@
+com\gupao\vip\mic\dubbo\user\constants\ResponseCodeEnum.class
+com\gupao\vip\mic\dubbo\user\dto\UserQueryResponse.class
+com\gupao\vip\mic\dubbo\user\dto\UserLoginResponse.class
+com\gupao\vip\mic\dubbo\user\dto\UserLoginRequest.class
+com\gupao\vip\mic\dubbo\user\dto\UserQueryRequest.class
+com\gupao\vip\mic\dubbo\user\IUserLoginService.class
+com\gupao\vip\mic\dubbo\user\abs\AbstractRequest.class
+com\gupao\vip\mic\dubbo\user\abs\AbstractResponse.class
+com\gupao\vip\mic\dubbo\user\IUserQueryService.class

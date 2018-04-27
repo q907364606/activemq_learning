@@ -1,0 +1,8 @@
+com\gupao\vip\mic\dubbo\exception\ExceptionUtil.class
+com\gupao\vip\mic\dubbo\main\Bootstrap.class
+com\gupao\vip\mic\dubbo\services\UserLoginService.class
+com\gupao\vip\mic\dubbo\exception\ServiceException.class
+com\gupao\vip\mic\dubbo\dal\persistence\UserMapper.class
+com\gupao\vip\mic\dubbo\exception\ValidateException.class
+com\gupao\vip\mic\dubbo\services\UserQueryService.class
+com\gupao\vip\mic\dubbo\dal\entity\User.class
